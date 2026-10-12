@@ -8,6 +8,8 @@ export default function App() {
     
     <View style={styles.container}>
       <Text>awlid modification</Text>
+      <Text>thani modification</Text>
+
       <ProductScreen />
       <StatusBar style="auto" />
     </View>
